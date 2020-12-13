@@ -1,5 +1,8 @@
 Zaini Azhar Resousi
   - Membuat Merch Shop
+    ~ Merch Shop Thai
+    ~ Merch Shop UnOff
+    ~ Merch CD BL
   - Membuat Online Shop
   - Membuat Portofolio Web
   - Belajar Semua Bahasa Pemrograman
